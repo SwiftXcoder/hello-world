@@ -8,7 +8,7 @@ Available from Apress (ISBN 978-1-4842-1489-3) ... or look on Amazon like I did!
 
 Also follow Twitter account: @swiftxcoder for the latest stuff and diary.
 
-Will post some of the content of the book, plus extras that I think are relevant.
+Will post some of the code mentioned in the book (if copyright allows) but mainly extras that I have created and I think are relevant.
 
 
 
